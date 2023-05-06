@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SLIIT Undergraduate Student
 ---------------------------
 
-* 📫  You can contact me at [linkedin.com/in/akila-elladeniya-5a9993217](mailto:linkedin.com/in/akila-elladeniya-5a9993217)
+
 * 🔭  I'm currently working on HopeHeaven
-* 📚  I'm currently learning MERN Stack
-* 🤝  I'm open to collaborating on projects
-* 🌱  Seeking Pease of Mind....🤍:)
+* 📚  I'm currently larning MERN Stack
+* 📫  You can contact me at [linkedin.com/in/akila-elladeniya-5a9993217](mailto:linkedin.com/in/akila-elladeniya-5a9993217)
+* 🌱  Seeking Pease of Mind....🤍:)
 
 ### Skills
 
