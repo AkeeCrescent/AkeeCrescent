@@ -5,10 +5,13 @@ SLIIT Undergraduate Student
 ---------------------------
 
 
-* 🔭  I'm currently working on HopeHeaven
-* 📚  I'm currently larning MERN Stack
-* 📫  You can contact me at [linkedin.com/in/akila-elladeniya-5a9993217](mailto:linkedin.com/in/akila-elladeniya-5a9993217)
-* 🌱  Seeking Pease of Mind....🤍:)
+* 🔭   I'm currently working on HopeHeaven
+
+* 📚   I'm currently larning MERN Stack
+ 
+* 📫   You can contact me at [linkedin.com/in/akila-elladeniya-5a9993217](mailto:linkedin.com/in/akila-elladeniya-5a9993217)
+ 
+* 🌱   Seeking Pease of Mind....🤍:)
 
 ### Skills
 
