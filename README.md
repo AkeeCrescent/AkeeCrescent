@@ -4,7 +4,7 @@
 <img src="https://github.com/AkeeCrescent/AkeeCrescent/blob/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🎓 Studying Computer Science with a focus on AI/ML<br>
 🚀 Aspiring to build scalable, innovative solutions as a Software Engineer <br>
-📫 Contact me : [mail](mailto:akila.elladeniya@gmail.com) | <a href="https://www.linkedin.com/in/akila-elladeniya-5a9993217">linkedIn</a> <br>
+📫 Contact me: <a href="mailto:akila.elladeniya@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/akila-elladeniya-5a9993217" target="_blank">LinkedIn</a> <br>
 🌱 Seeking Peace of Mind....🤍:)
 
 <br>
