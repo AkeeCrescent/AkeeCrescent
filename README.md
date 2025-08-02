@@ -58,6 +58,5 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?logo=tensorflow&logoColor=F15A59)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-333333?logo=googlecolab&logoColor=F15A59)
 ![Keras](https://img.shields.io/badge/-Keras-333333?logo=keras&logoColor=F15A59)
-![ECS](https://img.shields.io/badge/-AWS_ECS-333333?logo=amazonaws&logoColor=F15A59)
 
 
