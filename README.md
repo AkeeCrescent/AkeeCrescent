@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akila-elladeniya-5a9993217">Akila</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<br>
 
+<img src="https://github.com/AkeeCrescent/AkeeCrescent/blob/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🎓 Studying Computer Science with a focus on AI/ML<br>
 🚀 Aspiring to build scalable, innovative solutions as a Software Engineer <br>
 📫 Contact me : [mail](mailto:akila.elladeniya@gmail.com) | <a href="https://www.linkedin.com/in/akila-elladeniya-5a9993217">linkedIn</a> <br>
@@ -7,6 +9,9 @@
 
 <br>
 <br>
+<br>
+<br>
+
 
 ## Skills & Tools
 
