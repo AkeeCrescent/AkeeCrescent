@@ -47,16 +47,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?logo=figma&logoColor=F15A59)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?logo=netlify&logoColor=F15A59)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?logo=bitbucket&logoColor=F15A59)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-333333?logo=spring&logoColor=F15A59)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-333333?logo=android-studio&logoColor=F15A59)
-![Google Maps API](https://img.shields.io/badge/-Google_Maps_API-333333?logo=google-maps&logoColor=F15A59)
-![NASA API](https://img.shields.io/badge/-NASA_APIs-333333?logo=nasa&logoColor=F15A59)
-![Google Gemini API](https://img.shields.io/badge/-Gemini_API-333333?logo=google&logoColor=F15A59)
-![Cohere](https://img.shields.io/badge/-Cohere-333333?logo=cohere&logoColor=F15A59)
-![FAISS](https://img.shields.io/badge/-FAISS-333333?logo=faiss&logoColor=F15A59)
-![PyMuPDF](https://img.shields.io/badge/-PyMuPDF-333333?logo=python&logoColor=F15A59)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?logo=tensorflow&logoColor=F15A59)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-333333?logo=googlecolab&logoColor=F15A59)
-![Keras](https://img.shields.io/badge/-Keras-333333?logo=keras&logoColor=F15A59)
+
 
 
